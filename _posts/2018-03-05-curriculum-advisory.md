@@ -9,7 +9,6 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Erin Becker", "Christina Koch"]
 redirect_from: /blog/curriculum-advisory/
 ---

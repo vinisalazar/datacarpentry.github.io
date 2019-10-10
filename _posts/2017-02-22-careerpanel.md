@@ -8,7 +8,6 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Lauren Michael"]
 redirect_from: /blog/careerpanel/
 ---

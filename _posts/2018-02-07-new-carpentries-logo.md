@@ -9,7 +9,6 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Belinda Weaver"]
 redirect_from: /blog/new-carpentries-logo/
 ---

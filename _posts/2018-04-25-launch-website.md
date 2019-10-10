@@ -9,7 +9,6 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Tracy Teal", "Belinda Weaver"]
 redirect_from: /blog/launch-website/
 ---

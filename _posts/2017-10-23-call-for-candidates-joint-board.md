@@ -9,7 +9,6 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Karen Cranston"]
 
 redirect_from: /blog/call-for-candidates-joint-board/

@@ -9,7 +9,6 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Belinda Weaver", "Erin Becker"]
 redirect_from: /blog/inst-bug-bbq/
 ---

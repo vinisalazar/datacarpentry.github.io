@@ -9,7 +9,6 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Carpentry Staff"]
 redirect_from: /blog/cycle-phobos-wrap/
 ---

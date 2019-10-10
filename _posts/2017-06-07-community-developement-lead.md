@@ -9,7 +9,6 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Jonah Duckles", "Tracy Teal"]
 redirect_from: /blog/community-developement-lead/
 ---

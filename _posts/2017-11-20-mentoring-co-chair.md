@@ -9,7 +9,6 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Marian Schmidt", "Jamie Hadwin"]
 redirect_from: /blog/mentoring-co-chair/
 ---

@@ -9,7 +9,6 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Raniere Silva"]
 redirect_from: /blog/lesson_infra_mtg/
 ---

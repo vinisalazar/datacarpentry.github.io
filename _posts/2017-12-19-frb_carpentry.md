@@ -9,7 +9,6 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Alice Allen"]
 redirect_from: /blog/frb_carpentry/
 ---

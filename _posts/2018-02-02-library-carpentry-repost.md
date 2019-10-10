@@ -9,7 +9,6 @@ Categories:
 comments: true
 show_meta: true
 date: 2018-02-02
-tags: [""]
 authors: ["John Chodacki", "Tracy Teal"]
 redirect_from: /blog/library-carpentry-repost/
 ---

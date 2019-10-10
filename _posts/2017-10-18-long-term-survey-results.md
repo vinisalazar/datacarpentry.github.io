@@ -9,7 +9,6 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Kari L. Jordan", "Tracy Teal", "Erin Becker", "Karen Word"]
 redirect_from: /blog/long-term-survey-results/
 ---

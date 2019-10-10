@@ -9,7 +9,6 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Naupaka Zimmerman"]
 redirect_from: /blog/hand-crafted-databases/
 ---

@@ -9,7 +9,6 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Christina Koch"]
 redirect_from: /blog/join-mentoring/
 ---

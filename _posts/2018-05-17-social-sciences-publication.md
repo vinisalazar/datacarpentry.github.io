@@ -9,7 +9,6 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["François Michonneau", "Erin Becker"]
 redirect_from: /blog/social-sciences-publication/
 ---

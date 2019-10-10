@@ -1,6 +1,5 @@
 ---
 layout: post
-tags: [""]
 authors: ["Tracy Teal"]
 subheadline:
 title: "Genomics Bug BBQ"

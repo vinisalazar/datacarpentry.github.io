@@ -9,7 +9,6 @@ categories:
   - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: [Jason Williams, Tracy Teal]
 ---
 

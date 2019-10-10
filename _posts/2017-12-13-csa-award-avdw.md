@@ -9,7 +9,6 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Christina Koch", "Kate Hertweck"]
 redirect_from: /blog/csa-award-avdw/
 ---

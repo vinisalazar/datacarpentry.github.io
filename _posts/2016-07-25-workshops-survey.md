@@ -9,7 +9,6 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Tracy Teal", "Erin Becker", "Hilmar Lapp", "Karen Cranston", "Karthik Ram"]
 redirect_from: /blog/workshops-survey/
 ---

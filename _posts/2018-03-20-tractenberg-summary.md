@@ -9,7 +9,6 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: [""]
 authors: ["Marianne Corvellec", "Karen Word"]
 redirect_from: /blog/tractenberg-summary/
 ---
